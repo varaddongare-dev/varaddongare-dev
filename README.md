@@ -4,33 +4,22 @@
 </p>
 
 ### 🛰️ Mission Log
-I am a **BCA Student** at **MIT World Peace University** with a focus on AI automation and hardware-level performance. I don't just write code; I build systems that solve problems in real-time.
+I am a **BCA Student** at **MIT World Peace University** with a focus on AI automation and hardware-level performance. I build real-time systems that bridge the gap between intelligence and automation.
 
-- 🛠️ **Core Project:** [Support Systems](https://github.com/varaddongare-dev/Varad-Dongare) - An AI-powered automation suite.
+- 🛠️ **Core Project:** [Support Systems](https://github.com/varaddongare-dev/Varad-Dongare) - AI-powered WhatsApp automation.
 - 🧪 **Researching:** State Space Search and Algorithmic Optimization.
-- ⚡ **Fun Fact:** When I'm not debugging, I'm working on my badminton smash or optimizing hardware for high-end gaming.
+- 🏸 **Interests:** Badminton smash specialist and hardware performance geek.
 
 ---
 
 ### 🛠️ Tech Arsenal
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js,c,mongodb,fastapi,tailwind,git,vscode&perline=9" />
 </p>
 
 ---
 
 ### 📊 System Analytics
-
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varaddongare-dev&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varaddongare-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
@@ -45,8 +34,7 @@ I am a **BCA Student** at **MIT World Peace University** with a focus on AI auto
 
 ---
 
-### 📫 Secure Line
-<p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+### 💬 Let's Connect
+- 📧 **Email:** [varaddongare.dev@gmail.com](mailto:varaddongare.dev@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/varaddongare](https://linkedin.com/in/varaddongare)
+- 💻 **GitHub:** [github.com/varaddongare-dev](https://github.com/varaddongare-dev)
