@@ -2,7 +2,7 @@
 ### BCA Student @ MIT WPU | AI Developer | Tech Athlete
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=Varad%20Dongare&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=varaddongare-dev&fontSize=80&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 ---
@@ -28,18 +28,18 @@
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varad-Dongare&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varaddongare-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Varad-Dongare&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad-Dongare&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=varaddongare-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varaddongare-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🐍 The Contribution Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/Varad-Dongare/Varad-Dongare/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/varaddongare-dev/varaddongare-dev/output/github-contribution-grid-snake.svg)
 
 ---
 
