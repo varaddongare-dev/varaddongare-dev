@@ -6,7 +6,7 @@
 ### 🛰️ Mission Log
 I am a **BCA Student** at **MIT World Peace University** with a focus on AI automation and hardware-level performance. I build real-time systems that bridge the gap between intelligence and automation.
 
-- 🛠️ **Core Project:** [Support Systems](https://github.com/varaddongare-dev/Varad-Dongare) - AI-powered WhatsApp automation.
+- 🛠️ **Core Project:** [Support Systems](https://github.com/varaddongare-dev/support-Systems-bot) - AI-powered WhatsApp automation.
 - 🧪 **Researching:** State Space Search and Algorithmic Optimization.
 - 🏸 **Interests:** Badminton smash specialist and hardware performance geek.
 
@@ -29,7 +29,7 @@ I am a **BCA Student** at **MIT World Peace University** with a focus on AI auto
 
 ### 🐍 Contribution Stream
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varaddongare-dev/Varad-Dongare/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/varaddongare-dev/varaddongare-dev/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
