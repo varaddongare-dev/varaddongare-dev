@@ -44,11 +44,11 @@ I build real-time systems that bridge the gap between intelligence and automatio
 
 ### 📊 System Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varaddongare-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00d2ff" alt="GitHub Stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=varaddongare-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00d2ff" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varaddongare-dev&theme=tokyonight&hide_border=true&fire=00d2ff" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varaddongare-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff" alt="Top Languages" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=varaddongare-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff" alt="Top Languages" />
 </p>
 
 ---
