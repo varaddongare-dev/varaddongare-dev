@@ -36,5 +36,5 @@ I am a **BCA Student** at **MIT World Peace University** with a focus on AI auto
 
 ### 💬 Let's Connect
 - 📧 **Email:** [varaddongaredev@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=varaddongaredev@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/varaddongare](https://linkedin.com/in/varaddongare)
+- 🔗 **LinkedIn:** [varaddongare](https://www.linkedin.com/in/varad-dongare-680545348)
 - 💻 **GitHub:** [github.com/varaddongare-dev](https://github.com/varaddongare-dev)
