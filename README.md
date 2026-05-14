@@ -8,9 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varaddongare-dev&label=Profile%20views&color=00d2ff&style=flat-square" alt="varaddongare-dev" />
-</p>
+
 
 ---
 
