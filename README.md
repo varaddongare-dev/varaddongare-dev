@@ -21,7 +21,7 @@ I build real-time systems that bridge the gap between intelligence and automatio
 - 🔭 **Currently Building:** [Support Systems](https://github.com/varaddongare-dev/support-Systems-bot) - AI-powered WhatsApp automation.
 - 🧪 **Researching:** State Space Search and Algorithmic Optimization.
 - 🌱 **Learning:** Deepening knowledge in hardware-level performance and advanced AI models.
-- 🏸 **Interests:** Badminton smash specialist and hardware performance geek.
+- 🏸 **Interests:** Cricket Smash Specialist and hardware performance geek.
 
 ---
 
