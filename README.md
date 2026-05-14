@@ -1,6 +1,5 @@
-# <p align="center">⚡ Varad Dongare ⚡</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=00d2ff&height=250&section=header&text=Varad%20Dongare&fontSize=60&animation=scaleIn&fontAlignY=35&desc=AI%20Automation%20%7C%20Software%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Varad%20Dongare&fontSize=60&fontAlignY=35&desc=AI%20Automation%20%7C%20Software%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
@@ -75,6 +74,7 @@ I build real-time systems that bridge the gap between intelligence and automatio
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=00d2ff&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&animation=scaleIn" width="100%" />
-</p>
+<br>
+<div align="center">
+  <i>Thanks for visiting! Let's build something awesome together. 🚀</i>
+</div>
